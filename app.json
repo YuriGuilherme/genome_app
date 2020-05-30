@@ -1,0 +1,17 @@
+{
+  "name": "genome_app",
+  "displayName": "genome_app",
+  "expo": {
+    "name": "genome_app",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
